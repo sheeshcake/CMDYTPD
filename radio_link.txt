@@ -1,0 +1,6 @@
+100hitz(Top_40_Hitz) http://pureplay.cdnstream1.com/6025_64.aac/playlist.m3u8
+100hitz(Urban_Hitz) http://pureplay.cdnstream1.com/6043_64.aac/playlist.m3u8
+100Hitz(Country_Hitz) http://pureplay.cdnstream1.com/6030_64.aac/playlist.m3u8
+100Hitz(Indie_Hitz) http://pureplay.cdnstream1.com/6056_64.aac/playlist.m3u8
+100Hitz(Hot_Hitz) http://pureplay.cdnstream1.com/6027_64.aac/playlist.m3u8
+100Hitz(Hot_AC_Hitz) http://pureplay.cdnstream1.com/6038_64.aac/playlist.m3u8
