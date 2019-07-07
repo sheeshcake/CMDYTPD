@@ -4,7 +4,7 @@ CMDYTPD v3.x_beta
 by Dee
 
 
-Donate in <a href='www.paypal.me/wfrdee'>Paypal</a><br>
+Donate in <a href='https://www.paypal.me/wfrdee'>Paypal</a><br>
 ***************  ChangeLog   ***************<br>
 ***************Version (3.1.2)**************<br><br>
 #Final Version<br>
