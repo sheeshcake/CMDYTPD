@@ -3,10 +3,12 @@
 CMDYTPD v3.x_beta
 by Dee
 
+
+Donate in <a href='paypal.me/wfrdee'>Paypal</a>
 ***************  ChangeLog   ***************<br>
 ***************Version (3.1.2)**************<br><br>
 #Final Version<br>
-	<br>Final Version I dont know when to continue to develop this app
+	Final Version I dont know when to continue to develop this app
 	<br>
 ***************Version: (3.1)***************
 
