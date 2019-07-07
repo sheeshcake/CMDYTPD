@@ -3,9 +3,9 @@
 CMDYTPD v3.x_beta
 by Dee
 
-***************  ChangeLog   ***************
-***************Version (3.1.2)**************
-#Final Version
+***************  ChangeLog   ***************<br>
+***************Version (3.1.2)**************<br><br>
+#Final Version<br>
 	<br>Final Version I dont know when to continue to develop this app
 	<br>
 ***************Version: (3.1)***************
@@ -44,7 +44,8 @@ by Dee
 	(2.1) Code improvements and optimized!<br><br>
 
 #Bug Fixed!<br>
-	(2.1) Fixed! Search Result Bug\n\t(2.1) Fixed! Exits after playing.<br><br>
+	(2.1) Fixed! Search Result Bug<br>
+	(2.1) Fixed! Exits after playing.<br><br>
 
 
 ***************Version: (2.0)***************<br><br>
